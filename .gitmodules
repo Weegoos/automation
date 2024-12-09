@@ -1,0 +1,6 @@
+[submodule "java/Demo"]
+	path = java/Demo
+	url = https://github.com/DarynDuisenbai/Demo.git
+[submodule "client"]
+	path = client
+	url = https://github.com/Weegoos/iars-draft-version.git
