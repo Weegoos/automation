@@ -7,7 +7,7 @@
 
 ## Технологии
 
-### Backend (Дүйсенбай Дарын Канатұлы SE - 2214 && Khairullin Alisher Bolatuly SE - 2207) && Docker (Дүйсенбай Дарын Канатұлы SE - 2214):
+### Backend (Daryn Duisenbai Kanatuly SE - 2214 && Khairullin Alisher Bolatuly SE - 2207) && Docker (Daryn Duisenbai Kanatuly SE - 2214):
 - **Java Spring Boot**: используется для создания RESTful API, управления бизнес-логикой и взаимодействия с базой данных.
 
 ### Frontend (Batyr Ashim SE - 2213):
